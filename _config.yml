@@ -1,0 +1,28 @@
+name: Truls Aagedal
+favicon: null
+layout_spectrum: 0.2698800484649837
+typography_spectrum: 0.3910152381286025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9364711351227015
+  lightness: 0.08648840873502195
+  saturation: 0.6347079102415591
+  rhythmicContrast: 0.9810900872107595
+purpose: []
