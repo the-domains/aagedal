@@ -1,7 +1,7 @@
 name: Truls Aagedal
 favicon: null
 layout_spectrum: 0.01362
-typography_spectrum: 0.67946
+typography_spectrum: 0.69189
 title: – directing the world towards the future –
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ab0000'
     - '#3e3e3e'
     - '#616161'
-  brandStrength: 0.875
+  brandStrength: 1
   lightness: 0.0625
-  saturation: 0.5625
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
