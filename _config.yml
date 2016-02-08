@@ -1,7 +1,7 @@
 name: Truls Aagedal
 favicon: null
-layout_spectrum: 0.2698800484649837
-typography_spectrum: 0.3910152381286025
+layout_spectrum: 0.01362
+typography_spectrum: 0.67946
 title: – directing the world towards the future –
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9364711351227015
-  lightness: 0.08648840873502195
-  saturation: 0.6347079102415591
-  rhythmicContrast: 0.9810900872107595
+    - '#ffffff'
+    - '#272727'
+    - '#ab0000'
+    - '#3e3e3e'
+    - '#616161'
+  brandStrength: 0.875
+  lightness: 0.0625
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
