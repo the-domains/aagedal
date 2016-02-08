@@ -1,29 +1,41 @@
-name: Truls Aagedal
-favicon: null
-layout_spectrum: 0.01362
-typography_spectrum: 1
 title: – directing the world towards the future –
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0.0625
   brandColors:
     - '#ffffff'
     - '#272727'
     - '#ab0000'
     - '#3e3e3e'
     - '#616161'
-  brandStrength: 1
-  lightness: 0.0625
-  saturation: 0.5
   rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Truls Aagedal
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.01362
