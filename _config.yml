@@ -14,15 +14,15 @@ collections:
       path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 1
-  rhythmicContrast: 1
+  brandStrength: 0.4323308
+  lightness: 0.0625
   brandColors:
     - '#ffffff'
     - '#272727'
     - '#ab0000'
     - '#3e3e3e'
     - '#616161'
-  lightness: 0.0625
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.6911923
-layout_spectrum: 0.01362
+layout_spectrum: 1
