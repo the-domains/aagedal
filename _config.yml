@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 0.0625
+  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#272727'
     - '#ab0000'
     - '#3e3e3e'
     - '#616161'
-  rhythmicContrast: 1
+  lightness: 0.0625
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Truls Aagedal
 favicon: null
+name: Truls Aagedal
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
+typography_spectrum: 0.6911923
 layout_spectrum: 0.01362
